@@ -1,9 +1,3 @@
----
-layout: post
-title: "termproject"
-date: 2016-06-11 19:54:20 +0900
-categories: jekyll update
----
 #컴퓨터 시스템 설계 및 실습
 ##IOT 관련 제품 설계 보고서
 #####2010136027	김정택
